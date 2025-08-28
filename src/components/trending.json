@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Smart Door Refrigerator",
+    "price": "$499.99",
+    "link": "/product/1",
+    "image": "fridge.png"
+  },
+  {
+    "name": "65-Inch Ultra HD TV",
+    "price": "$999.99",
+    "link": "/product/2",
+    "image": "tv.png"
+  },
+  {
+    "name": "Air Purifying Vacuum",
+    "price": "$249.99",
+    "link": "/product/3",
+    "image": "vacum.png"
+  },
+  {
+    "name": "Automatic Espresso Machine",
+    "price": "$399.99",
+    "link": "/product/4",
+    "image": "espressomachine.png"
+  }
+]
